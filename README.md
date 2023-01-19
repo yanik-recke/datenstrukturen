@@ -1,0 +1,2 @@
+# datenstrukturen
+Implementation einiger Datenstrukturen.
